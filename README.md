@@ -20,9 +20,9 @@ Course consists of 9 Practice Assignments and Kaggle Capstone Project:
 1. [Exploratory data analysis with Pandas](assignment-1-pandas-and-uci-adult-dataset.ipynb)
 2. [Analyzing cardiovascular disease data](assignment-2-visualizing-and-analyzing-cardiovascular-data.ipynb)
 3. [Decision trees with a toy task and the UCI Adult dataset](assignment-3-decision-trees.ipynb)
-4. Sarcasm detection, Kaggle Kernel, solution. Linear Regression as an optimization problem
-5. Logistic Regression and Random Forest in the credit scoring problem
-6. Exploring OLS, Lasso and Random Forest in a regression task
+4. [Sarcasm detection, Kaggle Kernel, solution. Linear Regression as an optimization problem](assignment-4-sarcasm-detection-with-logit.ipynb)
+5. [Logistic Regression and Random Forest in the credit scoring problem](assignment-5-logit-and-rf-for-credit-scoring.ipynb)
+6. [Exploring OLS, Lasso and Random Forest in a regression task](assignment-6-linear-models-and-rf-for-regression.ipynb)
 7. Unsupervised learning
 8. Implementing online regressor
 9. Time series analysis
