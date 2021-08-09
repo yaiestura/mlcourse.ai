@@ -23,6 +23,6 @@ Course consists of 9 Practice Assignments and Kaggle Capstone Project:
 4. [Sarcasm detection, Kaggle Kernel, solution. Linear Regression as an optimization problem](assignment-4-sarcasm-detection-with-logit.ipynb)
 5. [Logistic Regression and Random Forest in the credit scoring problem](assignment-5-logit-and-rf-for-credit-scoring.ipynb)
 6. [Exploring OLS, Lasso and Random Forest in a regression task](assignment-6-linear-models-and-rf-for-regression.ipynb)
-7. Unsupervised learning
-8. Implementing online regressor
+7. [Unsupervised learning](assignment-7-unsupervised-learning.ipynb)
+8. [Implementing online regressor](assignment-8-implementing-online-regressor.ipynb)
 9. Time series analysis
